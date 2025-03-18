@@ -1,4 +1,4 @@
-# Expectation-Maximization-based-clustering-algorithm.
+
 # Gaussian Mixture Model (GMM) Clustering on Iris Dataset
 
 ## Overview
